@@ -11,8 +11,6 @@
         props: { books },
       }
     }
-
-    return { error: new Error("Failed to load books") }
   }
 </script>
 
