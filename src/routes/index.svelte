@@ -11,6 +11,10 @@
         props: { books },
       }
     }
+
+    return {
+      props: { books: [] },
+    }
   }
 </script>
 
